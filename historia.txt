@@ -1,14 +1,1 @@
-Esta es la historia de mi perrito
-Las ratas no me dejarán tranquilo por ahora
-Nosotros nos cuestionaremos porque es importante su historia.
-
-<<<<<<< HEAD
-Master 1
-Master 2
-
-am1
-=======
-Experimentos 1
-Experimentos 2
-Master 1
->>>>>>> 63afe43 (experimento 2)
+﻿blanco
